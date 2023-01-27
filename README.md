@@ -8,3 +8,7 @@ Intalar OpenCV
 ```
 pip install opencv-contrib-python
 ```
+Instalar Mediapipe
+```
+pip install mediapipe
+```
